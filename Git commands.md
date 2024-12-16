@@ -22,3 +22,5 @@ git add .           //add all files
 git commit -m "messege"
 <br>
 git push origin main
+<br>
+git init<t>//used for make new gir repo from local machine
