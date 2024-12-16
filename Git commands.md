@@ -7,6 +7,7 @@ git config --global user.name <github-username>
 git config --global user.email <github-email>
 
 - git initialization
+<br>
 git clone <github-project-link>
 <br>
 - stage
