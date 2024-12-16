@@ -22,3 +22,8 @@ git add .           //add all files
 git commit -m "messege"
 <br>
 git push origin main
+<br>
+
+- create git from local machine
+
+git remote add origin <link>
